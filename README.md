@@ -1,2 +1,2 @@
-# Localization-Script---iOS
+# Localization-Script-iOS
 Localize text using google translate
